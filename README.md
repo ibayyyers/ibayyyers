@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bryan Carlos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<iframe src="https://giphy.com/embed/Ll22OhMLAlVDb8UQWe" width="400" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">via GIPHY</a></p>
+<h3 align="center">A Web Developer from Indonesia.</h3>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVpOHU2ZGI4eXdueWp0eHN0Y3VlMTFxM2VkazF2dDI3a2U1NnlqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibayyyers&label=Profile%20views&color=0e75b6&style=flat" alt="ibayyyers" /> </p>
 
